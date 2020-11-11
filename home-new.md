@@ -2,60 +2,71 @@
 title: Home Page
 description: 
 published: true
-date: 2020-11-11T06:28:13.625Z
+date: 2020-11-11T20:45:56.165Z
 tags: 
 editor: markdown
 ---
 
 ![transparent_logo.png](/transparent_logo.png =150x)
-# Digital Infrastructure for Moving Objects Knowledge Graph
+# Intro to the DIMO Knowledge Graph
 ![citybrain.png](/citybrain.png)
 
 ## What is the Knowledge Graph?
-<div style="margin-left: 30px;">
-  
-    -[[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
+- [Intro to the DIMO Knowledge Graph](#intro-to-the-dimo-knowledge-graph)
+  * [What is the Knowledge Graph?](#what-is-the-knowledge-graph-)
+- [What is the Knowledge Graph?](#what-is-the-knowledge-graph--1)
+  * [Navigating the Graph - Types and Tags](#navigating-the-graph---types-and-tags)
+    + [[People] Type](#-people--type)
+    + [[Org] Type](#-org--type)
+    + [[Devices] Type](#-devices--type)
+    + [[Functions] Type](#-functions--type)
+    + [[Interfaces] Type](#-interfaces--type)
+    + [[Projects] Type](#-projects--type)
+    + [[Projects] Template](#-projects--template)
+    + [[Zones]](#-zones-)
+    + [[Project] Instances](#-project--instances)
+    + [[Event]](#-event-)
+      - [Claims](#claims)
+    + [[Event] Streams](#-event--streams)
+    + [[Deals]](#-deals-)
+    + [Deal [Types]](#deal--types-)
+    + [[Tasks] & Graph Requests](#-tasks----graph-requests)
+    + [[Badges]](#-badges-)
+    + [[Project] Badges - Seed, Sapling TREE](#-project--badges---seed--sapling-tree)
+    + [[Zone] Badges](#-zone--badges)
+    + [[Device] Badges](#-device--badges)
+    + [[Badge] [Tasks]](#-badge---tasks-)
+  * [Using the Knowledge Graph](#using-the-knowledge-graph)
+    + [Examples of Projects in the DIMO Airtable**](#examples-of-projects-in-the-dimo-airtable--)
+  * [Building Knowledge Graph Credentials](#building-knowledge-graph-credentials)
+      - [Creating & Verifying an Account](#creating---verifying-an-account)
+      - [New User Account Signup](#new-user-account-signup)
+      - [Becoming a Curator](#becoming-a-curator)
+    + [Step 1 - Join Community, Read Docs](#step-1---join-community--read-docs)
+    + [Step 2 - Explore Knowledge Graph & Projects](#step-2---explore-knowledge-graph---projects)
+    + [Step 3 - Get your First [Badge] By Completing or Funding a [Task]](#step-3---get-your-first--badge--by-completing-or-funding-a--task-)
+      - [Creating and Funding a [Task]](#creating-and-funding-a--task-)
+    + [Step 4 - Invite a Team and Start Building a [Project] together](#step-4---invite-a-team-and-start-building-a--project--together)
+- [Contribution Protocols](#contribution-protocols)
+    + [Sources](#sources)
+    + [Adding [Organizations] [Devices] + [Functions]](#adding--organizations---devices-----functions-)
+    + [Adding [Event] Streams](#adding--event--streams)
+    + [Adding Data from a Primary Source](#adding-data-from-a-primary-source)
+    + [Adding [Jobs] from [Organizations] and [Projects]](#adding--jobs--from--organizations--and--projects-)
+- [Terms Index](#terms-index)
 
-- Elon Musk List (Tesla + Boring Company + SpaceX) Project [Events]
-- Waymo Project [Events]
-- [Projects] coming up for Bid Soon (or past projects that you can FOIA) 
-
-- Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
-
-[Task] Templates:
-
-- These are all of the [[tasks] we've confirmed](https://airtable.com/shrWuPpuUlE3MaTMy) that we're going to offer to members on our platform, including the base price we'll charge. Users will also be able to request any arbitrary [[tasks]](https://airtable.com/shr5ydIkHvmPUTN5E).
-
-There are other ad-hoc [tasks] we're tracking that we've funded through Digital Infrastructure Services: 
-
-- Here's a [Task] that we're completing to [pull in the top 40 Infrastructure [projects] in the US](https://airtable.com/tblIc1j1lbieDf9sd/viwLhWQxSIbpvb6P9/recnVKuiC8uElP0cx) (at least as of 2017...)
-
-- Here's a [Task] we've already completed to pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
-
-All of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
-  
   
 **Navigating the Graph - Types and Tags**
-  [People]
-  [Orgs]
-  [Devices]
-  [Functions]
-  [Projects]
-  - [Zones]
-  - [Project] Instances
-  
-  [Events]
-  - Example [Event] Type - Claims
-  - [Event] Streams
-  
-  [Deals] 
+[People]
+[Orgs]
+[Devices]
+[Functions]
+[Projects]  
+[Events]  
+[Deals] 
+[Tasks]
+[Badges]
 
-  **[Tasks] & Graph Requests**
-  [Badges]
-  - [Project] Badges - Seed, Sapling TREE
-  - [Zone] Badges
-  - [Device] Badges
-  - [Badge] [Tasks]
   
 </div>
 
@@ -310,7 +321,34 @@ Certain [badges] require effort, expertise, or existing certification. An [org] 
 - Joyride
 - EasyMile
 
-# Building Knowledge Graph Credentials
+## Using the Knowledge Graph 
+
+DIMO uses airtable to collect and organize information. It is sync'd daily with the database that powers our website, app, and project builder tools. 
+
+### Examples of Projects in the DIMO Airtable**
+  
+[[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
+
+- Elon Musk List (Tesla + Boring Company + SpaceX) Project [Events]
+- Waymo Project [Events]
+- [Projects] coming up for Bid Soon (or past projects that you can FOIA) 
+
+- Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
+
+[Task] Templates:
+
+- These are all of the [[tasks] we've confirmed](https://airtable.com/shrWuPpuUlE3MaTMy) that we're going to offer to members on our platform, including the base price we'll charge. Users will also be able to request any arbitrary [[tasks]](https://airtable.com/shr5ydIkHvmPUTN5E).
+
+There are other ad-hoc [tasks] we're tracking that we've funded through Digital Infrastructure Services: 
+
+- [Task]: [pull in the top 40 Infrastructure [projects] in the US](https://airtable.com/tblIc1j1lbieDf9sd/viwLhWQxSIbpvb6P9/recnVKuiC8uElP0cx) (at least as of 2017...)
+
+- [Task]: pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
+
+- [Task]: Maintain a list of all of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
+  
+
+## Building Knowledge Graph Credentials
 
 [DIMO] is designed to unlock creativity at all layers in a [project]. A critical aspect of this is making it possible for anyone to contribute and get recognized for their work.
 
@@ -440,16 +478,6 @@ Add these items if they are not included. If they are included, you can just tag
 
 <table><tbody><tr><th>Object / Term</th> <th>Description</th> <th>Types</th></tr> <tr><td>Zones</td> <td>Geographic areas with explicitly defined administrative control over right of way and other policies like account registration and data access. Zones can have one or more Project Instances.</td> <td></td></tr> <tr><td>Project Templates</td> <td>Specific combinations of Devices, Functions, and Interfaces. These can be based off of past, existing, or desired future systems, and customized by users to fit their specific geographic configuration or use-case. Users can create Instances that combine multiple zone templates, and expand / update their own templates over time.</td> <td></td></tr> <tr><td>Project Instances</td> <td>Project Templates that have been implemented in real Zones. To earn certified project status an administrator must get sign-off from all project partners, land owners, and a 3rd party verification service.</td> <td></td></tr> <tr><td>Devices</td> <td>An object that is tracked within the DIMO network that can participate in functions and be assigned to one or more zones, organizations, or users.</td> <td></td></tr> <tr><td>Function-Templates</td> <td>A ruleset that can be configured to a secific purpose within a zone or template. Functions take in messages and output transactions.</td> <td></td></tr> <tr><td>Interfaces</td> <td>A way for a user to interact with functions to create transactions.</td> <td></td></tr> <tr><td>Badges</td> <td>A specific functional ability that has been certified by a user or organization within a zone. Badges work best when they're attached to a 3rd-party verifiable service that can prove their accuracy on an ongoing basis.</td> <td></td></tr> <tr><td>People</td> <td>Unique digital representation of real-world people &amp; objects - Can be people, operators, dispatchers, vehicles, smart home devices. Accounts can transact with, associate with, and control other accounts.</td> <td></td></tr> <tr><td>Organizations</td> <td>A higher level [DIMO] object made up of multiple [People]. Like [people], [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].</td> <td></td></tr> <tr><td>Jobs</td> <td>Work that is required to design, build, operate, or maintain a Zone, Interface, Project, or Function. Jobs range from one-off tasks to ongoing engagements, and they can be completed by organizations or individuals.</td> <td></td></tr> <tr><td>Transactions</td> <td>Signed messages sent from one account to another that update the state of the DIMO knowledge graph. These can represent transactions, claims (scoping) about a market participant, policy updates, or any other arbitrary data exchange meant to change an existing object.</td> <td></td></tr></tbody></table>
 
-## Visualization & Data Summarizing Tools In Airtable
 
-You need to display a large amount of data and contextual information. Use cases include material management and supply chains, logistics structures, and value chains.
 
-Display complex nonlinear structures, trees, and relationships:
-- [vendor-supplier relationships]
-- [Project administrative org charts]
-- [Investor/owner relationships].
-
-Giving the data a spatial context
-- Where are certain technologies being used?
-- Which [jobs] are available in which locations?
 

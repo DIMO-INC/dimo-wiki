@@ -2,7 +2,7 @@
 title: Home Page
 description: 
 published: true
-date: 2020-11-11T06:15:22.372Z
+date: 2020-11-11T06:28:13.625Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,27 @@ editor: markdown
 
 ## What is the Knowledge Graph?
 <div style="margin-left: 30px;">
+  
+    -[[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
+
+- Elon Musk List (Tesla + Boring Company + SpaceX) Project [Events]
+- Waymo Project [Events]
+- [Projects] coming up for Bid Soon (or past projects that you can FOIA) 
+
+- Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
+
+[Task] Templates:
+
+- These are all of the [[tasks] we've confirmed](https://airtable.com/shrWuPpuUlE3MaTMy) that we're going to offer to members on our platform, including the base price we'll charge. Users will also be able to request any arbitrary [[tasks]](https://airtable.com/shr5ydIkHvmPUTN5E).
+
+There are other ad-hoc [tasks] we're tracking that we've funded through Digital Infrastructure Services: 
+
+- Here's a [Task] that we're completing to [pull in the top 40 Infrastructure [projects] in the US](https://airtable.com/tblIc1j1lbieDf9sd/viwLhWQxSIbpvb6P9/recnVKuiC8uElP0cx) (at least as of 2017...)
+
+- Here's a [Task] we've already completed to pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
+
+All of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
+  
   
 **Navigating the Graph - Types and Tags**
   [People]
@@ -227,8 +248,7 @@ A well-crafted [Deal] will detail **performance targets** linked to existing [fu
 
 Public and Private Sector [Orgs] can use [Deal-Templates](/Deal-Templates) as an example of how to execute a certain [project] in another location. This produces a higher degree of certainty of outcomes because it enables transparency in [deal] terms, pricing, [functions], and reputation scoring of [orgs] and [people]. 
 
-**Example: Yolo County Transportation District’s 2018 RFP**
-[Deal] Record(
+Example: Yolo County Transportation District’s 2018 RFP [Deal] Record
 - Operate their fixed route bus services, their paratransit, and explore many other transit possibilities in the area.
 - Transdev ultimately won the contract and is operating their fixed routes and paratransit, while also having outlined what other potential services would look like for Yolo County.
 
@@ -432,3 +452,4 @@ Display complex nonlinear structures, trees, and relationships:
 Giving the data a spatial context
 - Where are certain technologies being used?
 - Which [jobs] are available in which locations?
+

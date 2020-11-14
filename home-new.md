@@ -2,7 +2,7 @@
 title: Home Page
 description: 
 published: true
-date: 2020-11-14T04:40:21.151Z
+date: 2020-11-14T04:50:23.094Z
 tags: 
 editor: markdown
 ---
@@ -11,51 +11,6 @@ editor: markdown
 # Intro to the DIMO Knowledge Graph
 ![citybrain.png](/citybrain.png)
 
-## What is the Knowledge Graph?
-- [Intro to the DIMO Knowledge Graph](#intro-to-the-dimo-knowledge-graph)
-  * [What is the Knowledge Graph?](#what-is-the-knowledge-graph-)
-- [What is the Knowledge Graph?](#what-is-the-knowledge-graph--1)
-  * [Navigating the Graph - Types and Tags](#navigating-the-graph---types-and-tags)
-    + [[People] Type](#-people--type)
-    + [[Org] Type](#-org--type)
-    + [[Devices] Type](#-devices--type)
-    + [[Functions] Type](#-functions--type)
-    + [[Interfaces] Type](#-interfaces--type)
-    + [[Projects] Type](#-projects--type)
-    + [[Projects] Template](#-projects--template)
-    + [[Zones]](#-zones-)
-    + [[Project] Instances](#-project--instances)
-    + [[Event]](#-event-)
-      - [Claims](#claims)
-    + [[Event] Streams](#-event--streams)
-    + [[Deals]](#-deals-)
-    + [Deal [Types]](#deal--types-)
-    + [[Tasks] & Graph Requests](#-tasks----graph-requests)
-    + [[Badges]](#-badges-)
-    + [[Project] Badges - Seed, Sapling TREE](#-project--badges---seed--sapling-tree)
-    + [[Zone] Badges](#-zone--badges)
-    + [[Device] Badges](#-device--badges)
-    + [[Badge] [Tasks]](#-badge---tasks-)
-  * [Using the Knowledge Graph](#using-the-knowledge-graph)
-    + [Examples of Projects in the DIMO Airtable**](#examples-of-projects-in-the-dimo-airtable--)
-  * [Building Knowledge Graph Credentials](#building-knowledge-graph-credentials)
-      - [Creating & Verifying an Account](#creating---verifying-an-account)
-      - [New User Account Signup](#new-user-account-signup)
-      - [Becoming a Curator](#becoming-a-curator)
-    + [Step 1 - Join Community, Read Docs](#step-1---join-community--read-docs)
-    + [Step 2 - Explore Knowledge Graph & Projects](#step-2---explore-knowledge-graph---projects)
-    + [Step 3 - Get your First [Badge] By Completing or Funding a [Task]](#step-3---get-your-first--badge--by-completing-or-funding-a--task-)
-      - [Creating and Funding a [Task]](#creating-and-funding-a--task-)
-    + [Step 4 - Invite a Team and Start Building a [Project] together](#step-4---invite-a-team-and-start-building-a--project--together)
-- [Contribution Protocols](#contribution-protocols)
-    + [Sources](#sources)
-    + [Adding [Organizations] [Devices] + [Functions]](#adding--organizations---devices-----functions-)
-    + [Adding [Event] Streams](#adding--event--streams)
-    + [Adding Data from a Primary Source](#adding-data-from-a-primary-source)
-    + [Adding [Jobs] from [Organizations] and [Projects]](#adding--jobs--from--organizations--and--projects-)
-- [Terms Index](#terms-index)
-
-  
 **Navigating the Graph - Types and Tags**
 [People]
 [Orgs]
@@ -69,31 +24,6 @@ editor: markdown
 
   
 </div>
-
-
-**Building Knowledge Graph Credentials**
-
-Creating & Verifying an Account
-- New User Account Signup
-- Apply for a Curator Role
-- Step 1 - Join Community, Read Docs
-- Step 2 - Explore Knowledge Graph & Projects
-- Step 3 - Get your First [Badge] By Completing or Funding a [Task]
-- Step 4 - Invite a Team and Start Building a [Project] together
-
-Contribution Protocols
-- Sources
-- Adding [Organizations] [Devices] + [Functions]
-- Adding [Event] Streams
--- Add timeline [events], tagging [organizations], [projects], [people], [functions], Adding Data from a Primary Source
--- Adding [Jobs] from [Organizations] and [Projects]
-
-
-
-- Terms Index
---Visualization & Data Summarizing Tools In Airtable
-
-# What is the Knowledge Graph?
 The DIMO Knowledge Graph is a system for tracking connections between the digital and physical world.
 ![Knowledge Graph](/knowledge_graph.png)
 It’s made up of basic building blocks or “Objects”
@@ -103,6 +33,8 @@ It’s made up of basic building blocks or “Objects”
 These entities can be linked together to describe complex systems & relationships.
 
 [Events] & [Relations]
+
+**Building Knowledge Graph Credentials**
 
 
 All updates to the knowledge graph are tracked in [Events].

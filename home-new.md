@@ -1,8 +1,8 @@
 ---
-title: DIMO Knowledge Graph
+title: Home Page
 description: 
 published: true
-date: 2020-11-14T06:45:17.106Z
+date: 2020-11-14T07:56:30.484Z
 tags: 
 editor: markdown
 ---
@@ -18,8 +18,9 @@ It’s made up of basic building blocks or [Objects]
 
 These entities can be linked together to describe complex systems & relationships.
 
-[Events] & [Relations]
 All updates to the knowledge graph are tracked in [Events].
+![Knowledge Graph](/event.png =110x)
+
 
 
 These updates can be simple, like updating the value on a sensor [device] from 70 → 71 degrees F.
@@ -38,8 +39,7 @@ All DIMO Knowledge Graph objects are organized by [type] and [tag].
 
 **Type** - is the broadest description associated with the [object]
 
-[Device] Types are listed
-
+These are the different types of [Devices] (so far) 
 ![vehicle_icon.png](/vehicle_icon.png) ![storage_icon.png](/storage_icon.png) ![access-control_icon.png](/access-control_icon.png) ![sensor_icon.png](/sensor_icon.png) ![robot_icon.png](/robot_icon.png) ![computers_icon.png](/computers_icon.png)
 
 Types tell users what they can expect to find in a particular knowledge graph [object].
@@ -67,24 +67,18 @@ Different project stakeholders will contribute information to ensure the initial
 ![product-designer_icon.png](/product-designer_icon.png) ![service-operator_icon.png](/service-operator_icon.png) ![author_icon.png](/author_icon.png) ![graph-curator_icon.png](/graph-curator_icon.png) ![support_icon.png](/support_icon.png) ![investor_icon.png](/investor_icon.png)
 
 
-### [Org]
-[Org] is a higher level [DIMO] object - one that incorporates multiple [People]. Like people, [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
+### [Orgs]
+[Orgs] are multiple [people] working together on something. Like [people] [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
 
-If you’ve joined or created an [Org] during onboarding, great! You can also follow an [Org] here to be updated as [Events] are associated with their accounts.
-
-**These [Organizations] have committed to the proposed [Cavnue Smart Road] [Project]**
+[People ] and [functions] can follow an [Org] here to be updated as [Events] are associated with their accounts.
 
 ![hardware_icon.png](/hardware_icon.png) ![media_icon.png](/media_icon.png) ![telecom_icon.png](/telecom_icon.png) ![software_icon.png](/software_icon.png) ![investor_icon.png](/investor_icon.png) ![finance_icon.png](/finance_icon.png)
 
 
 ### [Devices]
 
-You can import [Devices] to the knowledge graph and associate them with your account in a couple of different ways:
-- Selecting devices from existing or template [Projects]
-- Connecting an [Inventory] from [Amazon],[BestBuy] or [SKU] order history
-- From product databases attached to [Orgs] like [Autonomous Stuff]
+[People] and [Orgs] import [Devices] to the knowledge graph so they can be added to [functions] in [projects] 
 
-Device types determine the requirements for inclusion in the DIMO knowledge graph, and (eventually) in a live [project]
 
 ![vehicle_icon.png](/vehicle_icon.png) ![storage_icon.png](/storage_icon.png) ![access-control_icon.png](/access-control_icon.png) ![sensor_icon.png](/sensor_icon.png) ![robot_icon.png](/robot_icon.png) ![computers_icon.png](/computers_icon.png)
 
@@ -213,7 +207,7 @@ Example [Badges]
 
 For example, if you have a [device] with a “Network Dependency’ badge that is included in a certain [function] (say, a Smart Lock), and the [function]+[Device] combination is used in a specific project, DIMO will assign the “Network Dependency” badge to that project to indicate that a specific [function] included in that project will not work if there is no network connection.
 
-### [Project] Badges - Seed, Sapling TREE
+#### [Project] Badges - Seed, Sapling TREE
 [Projects] are designed and built to different capability levels based on the basemap data, functionality available, and testing/verification performed.
 
 Digital Infrastructure Inc. uses [badges] to certify all zones carrying commercial traffic on our network. We have developed a simple badging framework to describe how a project should function at each stage in a robotics project:
@@ -264,6 +258,9 @@ There are other ad-hoc [tasks] we're tracking that we've funded through Digital
 - [Task]: pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
 
 - [Task]: Maintain a list of all of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
+  
+
+
 
 # Terms Index
 

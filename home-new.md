@@ -2,42 +2,28 @@
 title: Home Page
 description: 
 published: true
-date: 2020-11-14T04:50:23.094Z
+date: 2020-11-14T05:00:51.626Z
 tags: 
 editor: markdown
 ---
 
 ![transparent_logo.png](/transparent_logo.png =150x)
 # Intro to the DIMO Knowledge Graph
-![citybrain.png](/citybrain.png)
-
-**Navigating the Graph - Types and Tags**
-[People]
-[Orgs]
-[Devices]
-[Functions]
-[Projects]  
-[Events]  
-[Deals] 
-[Tasks]
-[Badges]
-
   
 </div>
 The DIMO Knowledge Graph is a system for tracking connections between the digital and physical world.
+
 ![Knowledge Graph](/knowledge_graph.png)
-It’s made up of basic building blocks or “Objects”
+
+It’s made up of basic building blocks or [Objects]
 
 ![Knowledge Graph](/devices_icon.png =110x) ![Function Icon](/function_icon.png =110x) ![People Icon](/people_icon.png =110x) ![Company](/orgs_icon.png =110x) ![Badge](/badges_icon.png =110x) ![Project](/projects_icon.png =110x)
 
 These entities can be linked together to describe complex systems & relationships.
 
-[Events] & [Relations]
-
-**Building Knowledge Graph Credentials**
-
-
 All updates to the knowledge graph are tracked in [Events].
+
+
 
 
 These updates can be simple, like updating the value on a sensor [device] from 70 → 71 degrees F.

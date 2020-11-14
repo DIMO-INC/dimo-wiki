@@ -1,18 +1,15 @@
 ---
-title: Home Page
+title: DIMO Knowledge Graph
 description: 
 published: true
-date: 2020-11-14T05:00:51.626Z
+date: 2020-11-14T06:45:17.106Z
 tags: 
 editor: markdown
 ---
 
 ![transparent_logo.png](/transparent_logo.png =150x)
 # Intro to the DIMO Knowledge Graph
-  
-</div>
 The DIMO Knowledge Graph is a system for tracking connections between the digital and physical world.
-
 ![Knowledge Graph](/knowledge_graph.png)
 
 It’s made up of basic building blocks or [Objects]
@@ -21,9 +18,8 @@ It’s made up of basic building blocks or [Objects]
 
 These entities can be linked together to describe complex systems & relationships.
 
+[Events] & [Relations]
 All updates to the knowledge graph are tracked in [Events].
-
-
 
 
 These updates can be simple, like updating the value on a sensor [device] from 70 → 71 degrees F.
@@ -71,8 +67,8 @@ Different project stakeholders will contribute information to ensure the initial
 ![product-designer_icon.png](/product-designer_icon.png) ![service-operator_icon.png](/service-operator_icon.png) ![author_icon.png](/author_icon.png) ![graph-curator_icon.png](/graph-curator_icon.png) ![support_icon.png](/support_icon.png) ![investor_icon.png](/investor_icon.png)
 
 
-### [Orgs]
-[Orgs] are multiple [people] working together on something. Like [people] [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
+### [Org]
+[Org] is a higher level [DIMO] object - one that incorporates multiple [People]. Like people, [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
 
 If you’ve joined or created an [Org] during onboarding, great! You can also follow an [Org] here to be updated as [Events] are associated with their accounts.
 
@@ -114,8 +110,7 @@ Like most other DIMO [objects], [Projects] can either be a "template" or an "ins
 
 ![iot_icon.png](/iot_icon.png) ![transit_icon.png](/transit_icon.png) ![shared-mobility_icon.png](/shared-mobility_icon.png) ![smart-city_icon.png](/smart-city_icon.png) ![smart-house_icon.png](/smart-house_icon.png) ![testing_icon.png](/testing_icon.png)
 
-#### [Projects] Template
-[Project] Templates offered by Wunder Mobility, an [Org] Tracked in the DIMO knowledge graph.
+[Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
 
 
 ### [Zones]
@@ -218,7 +213,7 @@ Example [Badges]
 
 For example, if you have a [device] with a “Network Dependency’ badge that is included in a certain [function] (say, a Smart Lock), and the [function]+[Device] combination is used in a specific project, DIMO will assign the “Network Dependency” badge to that project to indicate that a specific [function] included in that project will not work if there is no network connection.
 
-#### [Project] Badges - Seed, Sapling TREE
+### [Project] Badges - Seed, Sapling TREE
 [Projects] are designed and built to different capability levels based on the basemap data, functionality available, and testing/verification performed.
 
 Digital Infrastructure Inc. uses [badges] to certify all zones carrying commercial traffic on our network. We have developed a simple badging framework to describe how a project should function at each stage in a robotics project:
@@ -269,9 +264,6 @@ There are other ad-hoc [tasks] we're tracking that we've funded through Digital
 - [Task]: pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
 
 - [Task]: Maintain a list of all of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
-  
-
-
 
 # Terms Index
 

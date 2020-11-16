@@ -1,14 +1,14 @@
 ---
 title: Graph Tasks
-description: Building the DIMO Knowledge Graph 
+description: Building the DIMO Knowledge Graph
 published: true
-date: 2020-11-14T06:17:23.834Z
+date: 2020-11-16T00:04:29.453Z
 tags: 
 editor: markdown
 ---
 
 # Graph Builder [Tasks] 
-Test Add
+
 Adding information about [Organizations], [Devices], [Users], [Events], [Projects].
 
 ### Sources

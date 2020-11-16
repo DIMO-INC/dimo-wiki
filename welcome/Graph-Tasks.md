@@ -2,7 +2,7 @@
 title: Graph Tasks
 description: Building the DIMO Knowledge Graph
 published: true
-date: 2020-11-16T00:04:29.453Z
+date: 2020-11-16T16:40:01.608Z
 tags: 
 editor: markdown
 ---
@@ -11,13 +11,13 @@ editor: markdown
 
 Adding information about [Organizations], [Devices], [Users], [Events], [Projects].
 
-### Sources
+## Sources
 Each piece of information added to the graph must include a citation and a link to an existing [object] in the graph.
 
 
 </br>
 
-### Adding [Organizations] [Devices] + [Functions]
+## Adding [Organizations] [Devices] + [Functions]
 
 1. Search from the existing [organization] list to avoid duplicates added.
 1. Find the organization's official website.
@@ -46,7 +46,7 @@ Common Sources of Information:
   -Industry News 
   -IoT System updates [Tesla Supercharger Stations](https://supercharge.info/changes)
 
-### Adding [Event] Streams
+## Adding [Event] Streams
 
 Add timeline [events], tagging [organizations], [projects], [people], [functions],
 
@@ -58,7 +58,7 @@ Add timeline [events], tagging [organizations], [projects], [people], [functions
 1. Link as many applicable connections as needed, submit to the Knowledge graph for approval
 1. Respond if there are any proposed changes
 
-### Adding Data from a Primary Source
+## Adding Data from a Primary Source
 DIMO Provides: [This URL] that points to the primary source, in this case it is the Robot Report Podcast, Episode 6
 
 The data is pulled into [This Record], and other linked records are created and updated:
@@ -73,7 +73,7 @@ Graph Builder Tasks:
 
 Add these items if they are not included. If they are included, you can just tag the existing record in the Event record you’re creating
 
-### Adding [Jobs] from [Organizations] and [Projects]
+## Adding [Jobs] from [Organizations] and [Projects]
 
 - Find the organization Job Board and pull out the link.
 - Identify the location where jobs are listed with as much data as possible.

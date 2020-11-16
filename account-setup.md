@@ -1,8 +1,8 @@
 ---
-title: Getting Started With DIMO
-description: Build your graph out. 
+title: Account Setup
+description: Build your graph out.
 published: true
-date: 2020-11-14T06:14:07.253Z
+date: 2020-11-16T01:12:47.951Z
 tags: 
 editor: markdown
 ---

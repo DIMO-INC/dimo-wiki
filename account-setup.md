@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your graph out.
 published: true
-date: 2020-11-16T01:12:47.951Z
+date: 2020-11-16T01:20:21.723Z
 tags: 
 editor: markdown
 ---

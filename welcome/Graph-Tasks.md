@@ -2,7 +2,7 @@
 title: Graph Tasks
 description: Building the DIMO Knowledge Graph
 published: true
-date: 2020-11-16T16:40:01.608Z
+date: 2020-11-16T16:46:38.976Z
 tags: 
 editor: markdown
 ---
@@ -81,3 +81,12 @@ Add these items if they are not included. If they are included, you can just tag
 - Link with the Hiring [Organization] and [Project] (if applicable)
 - Update the Status of the organization on the “Jobs Tracking Status” board
 - Note: If you add the links to other records, some fields will be automatically generated from existing knowledge graph content.
+
+## Adding [Projects] and [Deals]
+
+Sample [Task] for [Completing a FOIA request](https://airtable.com/tblIc1j1lbieDf9sd/viwBNg045cwy1fK3Q/recBV9zez4bcNWMmi)
+
+
+
+
+

@@ -1,8 +1,8 @@
 ---
-title: Welcome
+title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-11-16T01:17:52.031Z
+date: 2020-11-16T01:18:34.988Z
 tags: 
 editor: markdown
 ---

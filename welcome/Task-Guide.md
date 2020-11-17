@@ -1,0 +1,36 @@
+---
+title: Task Guide
+description: 
+published: true
+date: 2020-11-17T00:45:19.574Z
+tags: 
+editor: markdown
+---
+
+# [Task] Directory
+Step-by-step guide on how to complete individual [tasks]
+
+## [Complete a FOIA/FOIL Request](https://airtable.com/tblIc1j1lbieDf9sd/viwBNg045cwy1fK3Q/recBV9zez4bcNWMmi?blocks=hide) 
+1.	Find key details 
+- Name of deal or project – can do through a google search using some keywords (name of city, type of project, organizations related to project, whatever information you have, etc..)
+- Dates – similarly look for dates of project
+- Public Agencies involved – start with the town/city government and then go to state government 	
+2.	Learn what information is important to gather
+- What documents are needed:
+	- 	RFP/RFI/RFQ, signed contracts, winning submittal proposals, etc..
+- Is there a certain metric that is important and being looked for:
+	- Pricing, number of [device], types of services rendered, general details, etc…
+3.	Requesting RFP
+- If you are only searching for a small number of RFPs then may be more efficient to call up the public agency and discuss the process so you know what to do and don’t waste time
+	- If this isn’t possible then proceed to following steps
+- Check to see if they have a formalized process, could be one of:
+	- Fill-in form that needs to be faxed
+  - Online form to fill out
+  - If not then proceed to following 
+- Find associated emails or points of contact within public agencies
+	- Use email template below
+  - If unsure of which public agency is responsible then message all government parties that could be involved (town/city, state)
+4.	DIMO Knowledge Graph
+- When a FOIA/FOIL request is granted and you receive information or documentation please see ‘importing [deal] information’ under [task] to fill out appropriately
+5.	Miscellaneous
+- Some might require some sort of payment, this will be baked into the cost of attaining information

@@ -2,7 +2,7 @@
 title: Graph Tasks
 description: Building the DIMO Knowledge Graph
 published: true
-date: 2020-11-16T16:46:38.976Z
+date: 2020-11-17T00:23:50.255Z
 tags: 
 editor: markdown
 ---
@@ -82,8 +82,22 @@ Add these items if they are not included. If they are included, you can just tag
 - Update the Status of the organization on the “Jobs Tracking Status” board
 - Note: If you add the links to other records, some fields will be automatically generated from existing knowledge graph content.
 
-## Adding [Projects] and [Deals]
+## Adding [Deals] and [Projects]
 
+### [Deals]:
+ 
+ 1. Search for duplicates:
+ - Search through [deals] to see if this deal has already be input, also look at [deals] linked to [organizations] who are involved to make sure isn't submitted under a different name
+ 2. Find key and high-level details related to the [deal] from a primary source 
+ - Examples: dates, [orgs] involved, relevant websites, [deal] type, funding sources, size of [deal], [devices] utilized, [functions] involved, etc..
+ 3. Retrieve relevant documentation that gives more granular details on a [deal]
+ - This could be done through a [Complete a FOIA/FOIL Request](https://airtable.com/tblIc1j1lbieDf9sd/viwBNg045cwy1fK3Q/recBV9zez4bcNWMmi)
+ - Link documentation to the [deal] and fill in more specific information 
+ 4. Make sure to link [deal] to all the appropriate knowledge graph information; [functions] [people] [devices] [jobs] [projects] [events] [tasks]
+
+### [Projects]:
+
+1. 
 Sample [Task] for [Completing a FOIA request](https://airtable.com/tblIc1j1lbieDf9sd/viwBNg045cwy1fK3Q/recBV9zez4bcNWMmi)
 
 

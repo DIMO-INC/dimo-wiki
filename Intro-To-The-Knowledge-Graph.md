@@ -2,70 +2,74 @@
 title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-11-16T01:18:50.230Z
+date: 2020-11-30T20:17:53.018Z
 tags: 
 editor: markdown
 ---
 
 ![transparent_logo.png](/transparent_logo.png =150x)
 # Intro to the DIMO Knowledge Graph
-The DIMO Knowledge Graph is a system for tracking connections between the digital and physical world.
+The DIMO Knowledge Graph tracks connections between the digital and physical world.
 ![Knowledge Graph](/knowledge_graph.png)
 
-It’s made up of basic building blocks or [Objects]
 
-![Knowledge Graph](/devices_icon.png =110x) ![Function Icon](/function_icon.png =110x) ![People Icon](/people_icon.png =110x) ![Company](/orgs_icon.png =110x) ![Badge](/badges_icon.png =110x) ![Project](/projects_icon.png =110x)
+## [Objects] 
+The Knowledge Graph is organized by [Objects] - whenever you see a word in Brackets like [this], you know you're dealing with a DIMO [object]. 
 
-These entities can be linked together to describe complex systems & relationships.
+[Objects] can be linked together to describe complex systems & relationships. This page provides an overview of each [object] type, along with examples of how they're used. 
 
-All updates to the knowledge graph are tracked in [Events].
-![Knowledge Graph](/event.png =110x)
+Name | Icon | Description
+ --- | --- | ---
+[Projects] |[![Project](/projects.png =50x)](#[Projects]) | Systems of [orgs], [people], [functions], [devices] that are designed to achieve a measurable outcome.   
+[Functions] |[![Function Icon](/functions.png =50x)](#Function)|Combinations of [Events] [People] [Devices] - [Function]s produce [Events]
+[People] | [![People Icon](/people.png =50x)](#[People]) 
+[Badges] | [![Badge](/badge.png =50x)](#Badges) 
+[Events] | [![Knowledge Graph](/event.png =50x)](##Events) | Updates to the knowledge graph are tracked in [Events] linked to one or more [opbjects]. 
+[Devices] | [![Knowledge Graph](/devices.png =50x)](##[Devices])|Hardware that can be owned by [orgs], [people], or [projects]. [Devices] typically have [interfaces] that allow them to interact with [functions] and produce [events]. 
 
 
+When creating [Projects], it's helpful to create higher level constructions out of the [objects] above. Here are some examples: 
 
-These updates can be simple, like updating the value on a sensor [device] from 70 → 71 degrees F.
+Name | Icon | Description
+--- | --- | ---
+[Orgs] | ![Company](/company.png =50x) | Multiple [people] working together on something. 
+[Tasks]| ![Task](/task.png )|[Tasks] are created when [people] or [orgs] send request [Events] to [functions], creating a specific job to be done.  
+[Deals] | ![Deals](/deal.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [orgs] or [people] for a set price.
+[Interfaces]| ![Interface](/interface.png =50x) |[People] interact with [Functions] through [Interfaces], which are combinations of [devices] and [functions]. 
 
-[Events] can also describe complex situations including other objects: 
-- update to a [function] that is 
-- linked a [device] 
-- based on a policy [function] 
-- set by an [organization] 
-in a specific [project].
 
-![Knowledge Graph](/policyupdate.png)
 
 ## Navigating the Graph - Types and Tags
 All DIMO Knowledge Graph objects are organized by [type] and [tag].
 
-**Type** - is the broadest description associated with the [object]
+**Type** tell users what they can expect to find in a particular knowledge graph [object].
+
 
 These are the different types of [Devices] (so far) 
 ![vehicle_icon.png](/vehicle_icon.png) ![storage_icon.png](/storage_icon.png) ![access-control_icon.png](/access-control_icon.png) ![sensor_icon.png](/sensor_icon.png) ![robot_icon.png](/robot_icon.png) ![computers_icon.png](/computers_icon.png)
 
-Types tell users what they can expect to find in a particular knowledge graph [object].
 
 For example, a [device] with [type] “Home Appliance” can be expected to have the following fields:
 - “Power Source” (acceptable values - Battery, 120v outlet, Solar, etc)
 - “Network Connection” (acceptable values - None, Wifi, Cell, LoRA WAN, etc)
+- "Capability" (Acceptable values - cooking, cleaning, storage, etc.) 
 
 An iRobot Roomba S9 is an example of a [device] has multiple [types]. It’s both a Home Appliance and a Robot. It contains data that describes Robot qualities like “Actuators”, “Sensors”, and “Compute”, and Home Appliance qualities like “room”, “Hub”, and “Network”.
 
-Types are able to enumerate any knowledge graph data type, and can only be updated by a Graph administrator (more on user roles here). Any user can suggest updates to types by submitting a pull request or entering a task in the “Requests” section of the Graph Roadmap.
+Any user can suggest updates to types by submitting a pull request or entering a task in the “Requests” section of the Graph Roadmap.
 
-Tags - are able to give a more detailed description of the [object], providing more free-form labels and associations with other parts of the knowledge graph. They allow [users] to more easily find and group [devices] appropriately.
+**Tags** - are able to give a more detailed description of the [object], providing more free-form labels and associations with other parts of the knowledge graph. They allow [users] to more easily find and group [devices] appropriately.
 
 For example, ‘Home appliances’ which will have many subgroups [tags] within it, vacuum, microwave, dishwasher, refrigerator, washer/dryer, etc.
 
 
+### [People] 
 
-### [People] Type
-
-[People] with DIMO accounts can add to the knowledge graph. Typically this is done while designing, developing, maintaining, and upgrading DIMO [Projects].
-
-Different project stakeholders will contribute information to ensure the initial configuration and ongoing operations are aligned with end user needs. A [person] can fill one or more roles within specific [Projects], [Zones], [Orgs], [Devices] they’re affiliated with.
+The most basic account, which can own or fill one or more roles within specific [Projects], [Functions], [Orgs], [Devices].
 
 ![product-designer_icon.png](/product-designer_icon.png) ![service-operator_icon.png](/service-operator_icon.png) ![author_icon.png](/author_icon.png) ![graph-curator_icon.png](/graph-curator_icon.png) ![support_icon.png](/support_icon.png) ![investor_icon.png](/investor_icon.png)
 
+[People] with **verified** DIMO accounts can add to the knowledge graph and create private sub-graphs. Typically this is done while designing, developing, maintaining, and upgrading DIMO [Projects].
 
 ### [Orgs]
 [Orgs] are multiple [people] working together on something. Like [people] [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
@@ -84,28 +88,43 @@ Different project stakeholders will contribute information to ensure the initial
 
 
 ### [Functions] 
-Combinations of [Events] [People] [Devices] - [Function]s produce [Events]
 
-![verification_icon.png](/verification_icon.png) ![phone-app_icon.png](/phone-app_icon.png) ![network_icon.png](/network_icon.png) ![parking_icon.png](/parking_icon.png) ![storage_icon.png](/storage_icon.png) ![spacelink_icon.png](/spacelink_icon.png)
+The DIMO platform offers [Functions] for a variety of repeatable tasks across the following categories. 
 
-### [Interfaces] 
-[People] interact with [Functions] through [Interfaces]. [Interfaces] are combinations of [devices] and [functions]
 
-![ios_icon.png](/ios_icon.png) ![macos_icon.png](/macos_icon.png) ![webapp_icon.png](/webapp_icon.png) ![android_app_icon.png](/android_app_icon.png) ![app_icon.png](/app_icon.png) ![ethernet_icon.png](/ethernet_icon.png)
+![verification_icon.png](/verification_icon.png) ![phone-app_icon.png](/phone-app_icon.png) ![network_icon.png](/network_icon.png) ![parking_icon.png](/parking_icon.png) ![storage_icon.png](/storage_icon.png) 
 
 ### [Projects] 
-The whole point of DIMO is to enable [Projects] that move things around. [Projects] are systems of [orgs], [people], [functions], [devices]
+The whole point of DIMO is to enable [Projects] that move things around. [Projects] are systems of [orgs], [people], [functions], [devices] that are designed to achieve a measurable outcome. [Deals] are a specific type of [function] that can be used to fund and build [projects] by specifying [tasks] that need to be completed to successfully launch a new instance of a [project]. 
 
 Here’s an example of current and potential [projects] that we’re tracking.
 - Automated Valet Parking System (Current)
 - [The Boring Company] building a tunnel system under [Las Vegas]
 
-Like most other DIMO [objects], [Projects] can either be a "template" or an "instance"
 
 ![iot_icon.png](/iot_icon.png) ![transit_icon.png](/transit_icon.png) ![shared-mobility_icon.png](/shared-mobility_icon.png) ![smart-city_icon.png](/smart-city_icon.png) ![smart-house_icon.png](/smart-house_icon.png) ![testing_icon.png](/testing_icon.png)
 
+Like most other DIMO [objects], [Projects] can either be a "template" or an "instance"
+
 [Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
 
+### Events 
+![Knowledge Graph](/event.png =75x)
+
+Updates can be simple, like changing the value on a sensor [device] from 70 → 71 degrees F.
+
+[Events] can also describe complex situations including other objects: 
+- update to a policy [function] that is 
+- linked to a [device] 
+- set by an [organization] in a specific [project].
+- tracked by a [Badge] that summarizes performance against a standard
+
+![Knowledge Graph](/policyupdate.png)
+
+### [Interfaces] 
+[People] interact with [Functions] through [Interfaces]. [Interfaces] are combinations of [devices] and [functions]
+
+![ios_icon.png](/ios_icon.png) ![macos_icon.png](/macos_icon.png) ![webapp_icon.png](/webapp_icon.png) ![android_app_icon.png](/android_app_icon.png) ![app_icon.png](/app_icon.png) ![ethernet_icon.png](/ethernet_icon.png)
 
 ### [Zones]
 Live [projects] typically contain one or more references to physical locations that can be defined by addresses, zip codes, geo-JSON - these can be home to one or more [projects], and can be set up with administrative structures that are managed by [people]
@@ -118,7 +137,7 @@ A [Project Instance] must be associated with at least one [Zone], and inherits t
 ### [Event]
 The knowledge graph to track [events] and associate them with their subjects & participants.
 
-#### Claims
+#### Prediction
 
 An event can contain a statement from a [Person] or [Org] that references some time-bound information. For example -
 
@@ -179,7 +198,7 @@ Example: Yolo County Transportation District’s 2018 RFP [Deal] Record
 This [deal] can easily be used for by other [orgs] to find provider [orgs] for similar [functions], understand the pricing of these deals, use a similar [deal] template, or to explore new [functions].
 
 
-### [Tasks] & Graph Requests
+### [Tasks] 
 While building out projects and attaching them to the DIMO graph, you’ll frequently come across ideas for data sources that would be useful to add.
 
 ![community_icon.png](/tasktype/community_icon.png) ![data-collection_icon.png](/tasktype/data-collection_icon.png) ![graph-tooling_icon.png](/tasktype/graph-tooling_icon.png) ![integration_icon.png](/tasktype/integration_icon.png) ![marketing_icon.png](/tasktype/marketing_icon.png) ![schema_update_icon.png](/tasktype/schema_update_icon.png)
@@ -192,6 +211,18 @@ Examples of [event] streams that originated as [Graph Requests]:
 - All NHTSA Projects tracked in the AV TEST platform
 
 Adding a [Task] or [Graph Request] creates an [event] when it’s accepted, and when the data/feed is actually published to the knowledge graph, payment or [badges] are issued according to the original agreement.
+
+#### [Task] Templates:
+
+- These are all of the [[tasks] we've confirmed](https://airtable.com/shrWuPpuUlE3MaTMy) that we're going to offer to members on our platform, including the base price we'll charge. Users will also be able to request any arbitrary [[tasks]](https://airtable.com/shr5ydIkHvmPUTN5E).
+
+There are other ad-hoc [tasks] we're tracking that we've funded through Digital Infrastructure Services: 
+
+- [Task]: [pull in the top 40 Infrastructure [projects] in the US](https://airtable.com/tblIc1j1lbieDf9sd/viwLhWQxSIbpvb6P9/recnVKuiC8uElP0cx) (at least as of 2017...)
+
+- [Task]: pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
+
+- [Task]: Maintain a list of all of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
 
 ### [Badges]
 
@@ -235,7 +266,7 @@ Certain [badges] require effort, expertise, or existing certification. An [org] 
 
 ## Using the Knowledge Graph 
 
-DIMO uses airtable to collect and organize information. It is sync'd daily with the database that powers our website, app, and project builder tools. 
+DIMO uses a number of tools to collect and organize information. Airtable is the most accessible for beginners. With a valid DIMO account, you can access the public DIMO database here, and start to build your own extensions to the graph. 
 
 ### Examples of Projects in the DIMO Airtable**
   
@@ -247,24 +278,9 @@ DIMO uses airtable to collect and organize information. It is sync'd daily with 
 
 - Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
 
-[Task] Templates:
 
-- These are all of the [[tasks] we've confirmed](https://airtable.com/shrWuPpuUlE3MaTMy) that we're going to offer to members on our platform, including the base price we'll charge. Users will also be able to request any arbitrary [[tasks]](https://airtable.com/shr5ydIkHvmPUTN5E).
-
-There are other ad-hoc [tasks] we're tracking that we've funded through Digital Infrastructure Services: 
-
-- [Task]: [pull in the top 40 Infrastructure [projects] in the US](https://airtable.com/tblIc1j1lbieDf9sd/viwLhWQxSIbpvb6P9/recnVKuiC8uElP0cx) (at least as of 2017...)
-
-- [Task]: pull in all of the [NHTSA-regulated AV [projects] ](https://airtable.com/shrARtAvT79gV3Dnj)
-
-- [Task]: Maintain a list of all of the [Members of PAVE](https://airtable.com/shrTj2vbAH2CXKEY9) - a target AV industry group
   
 
-
-
-# Terms Index
-
-<table><tbody><tr><th>Object / Term</th> <th>Description</th> <th>Types</th></tr> <tr><td>Zones</td> <td>Geographic areas with explicitly defined administrative control over right of way and other policies like account registration and data access. Zones can have one or more Project Instances.</td> <td></td></tr> <tr><td>Project Templates</td> <td>Specific combinations of Devices, Functions, and Interfaces. These can be based off of past, existing, or desired future systems, and customized by users to fit their specific geographic configuration or use-case. Users can create Instances that combine multiple zone templates, and expand / update their own templates over time.</td> <td></td></tr> <tr><td>Project Instances</td> <td>Project Templates that have been implemented in real Zones. To earn certified project status an administrator must get sign-off from all project partners, land owners, and a 3rd party verification service.</td> <td></td></tr> <tr><td>Devices</td> <td>An object that is tracked within the DIMO network that can participate in functions and be assigned to one or more zones, organizations, or users.</td> <td></td></tr> <tr><td>Function-Templates</td> <td>A ruleset that can be configured to a secific purpose within a zone or template. Functions take in messages and output transactions.</td> <td></td></tr> <tr><td>Interfaces</td> <td>A way for a user to interact with functions to create transactions.</td> <td></td></tr> <tr><td>Badges</td> <td>A specific functional ability that has been certified by a user or organization within a zone. Badges work best when they're attached to a 3rd-party verifiable service that can prove their accuracy on an ongoing basis.</td> <td></td></tr> <tr><td>People</td> <td>Unique digital representation of real-world people &amp; objects - Can be people, operators, dispatchers, vehicles, smart home devices. Accounts can transact with, associate with, and control other accounts.</td> <td></td></tr> <tr><td>Organizations</td> <td>A higher level [DIMO] object made up of multiple [People]. Like [people], [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].</td> <td></td></tr> <tr><td>Jobs</td> <td>Work that is required to design, build, operate, or maintain a Zone, Interface, Project, or Function. Jobs range from one-off tasks to ongoing engagements, and they can be completed by organizations or individuals.</td> <td></td></tr> <tr><td>Transactions</td> <td>Signed messages sent from one account to another that update the state of the DIMO knowledge graph. These can represent transactions, claims (scoping) about a market participant, policy updates, or any other arbitrary data exchange meant to change an existing object.</td> <td></td></tr></tbody></table>
 
 
 

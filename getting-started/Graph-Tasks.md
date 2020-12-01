@@ -1,8 +1,8 @@
 ---
-title: Graph Tasks
+title: Graph Builder [Tasks]
 description: Building the DIMO Knowledge Graph
 published: true
-date: 2020-11-17T00:23:50.255Z
+date: 2020-12-01T04:59:28.304Z
 tags: 
 editor: markdown
 ---

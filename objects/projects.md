@@ -2,7 +2,7 @@
 title: [Projects]
 description: 
 published: true
-date: 2020-12-01T05:57:31.135Z
+date: 2020-12-01T05:57:57.087Z
 tags: object
 editor: markdown
 ---
@@ -20,3 +20,12 @@ Here’s an example of current and potential [projects] that we’re tracking.
 Like most other DIMO [objects], [Projects] can either be a "template" or an "instance"
 
 [Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
+
+### [Zones]
+Live [projects] typically contain one or more references to physical locations that can be defined by addresses, zip codes, geo-JSON - these can be home to one or more [projects], and can be set up with administrative structures that are managed by [people]
+
+### [Project] Instances
+Combinations of [Project Templates] and [Zones]
+
+A [Project Instance] must be associated with at least one [Zone], and inherits the policies of that [zone].
+

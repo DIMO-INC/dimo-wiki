@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-12-01T06:03:55.976Z
+date: 2020-12-01T06:04:58.961Z
 tags: 
 editor: markdown
 ---

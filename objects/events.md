@@ -2,13 +2,26 @@
 title: [Events]
 description: 
 published: true
-date: 2020-12-01T05:54:54.471Z
+date: 2020-12-01T06:00:11.667Z
 tags: object
 editor: markdown
 ---
 
 # [Events]
-The knowledge graph to track [events] and associate them with their subjects & participants.
+### Events 
+![Knowledge Graph](/event.png =75x)
+
+[Events] are how changes are tracked in the knowledge graph and associated with their subjects & participants.
+
+Updates can be simple, like changing the value on a sensor [device] from 70 → 71 degrees F.
+
+[Events] can also describe complex situations including other objects: 
+- update to a policy [function] that is 
+- linked to a [device] 
+- set by an [organization] in a specific [project].
+- tracked by a [Badge] that summarizes performance against a standard
+
+![Knowledge Graph](/policyupdate.png)
 
 #### Prediction
 

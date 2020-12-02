@@ -2,7 +2,7 @@
 title: [People] & [Orgs]
 description: 
 published: true
-date: 2020-12-02T04:49:30.029Z
+date: 2020-12-02T05:41:24.516Z
 tags: 
 editor: markdown
 ---
@@ -18,9 +18,13 @@ The most basic account, which can own or fill one or more roles within specific 
 
 If you are on a free tier account and would like to apply for account verification - [submit this form.](https://airtable.com/shrCzqkLkxabwBOBR)
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrCzqkLkxabwBOBR?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## [Orgs]
 
 [Example Gallery](https://airtable.com/shrBX3RazvuAQ5VVS) 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrBX3RazvuAQ5VVS?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [Orgs] are multiple [people] working together on something. Like [people], [Orgs] can be associated with [Projects], [Devices], [Functions] and assigned [Badges] based on [Events].
 

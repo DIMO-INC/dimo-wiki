@@ -2,7 +2,7 @@
 title: [Projects]
 description: 
 published: true
-date: 2020-12-02T05:59:22.431Z
+date: 2020-12-02T18:20:40.927Z
 tags: object
 editor: markdown
 ---
@@ -17,12 +17,20 @@ Here’s an example of current and potential [projects] that we’re tracking.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrhVLXNuwWrt72rt?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+
 [Projects] can be assigned type tags, which helps them show up for the correct users at the right time.  
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrT1yjoqCQMHwhYf?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<!---
 ![iot_icon.png](/iot_icon.png) ![transit_icon.png](/transit_icon.png) ![shared-mobility_icon.png](/shared-mobility_icon.png) ![smart-city_icon.png](/smart-city_icon.png) ![smart-house_icon.png](/smart-house_icon.png) ![testing_icon.png](/testing_icon.png)
+-->
 
-DIMO also has a [function]( that enables the custom creation of lists of [projects] like this list of Spot Robotics Projects:
+DIMO also has a [function] that can be used to build lists of [projects] for research purposes. 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrARtAvT79gV3Dnj?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+Here's an example list of Spot Robotics Projects:
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrXcHWrD1sDg4HIs?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Or this list of NHTSA Regulated Robotics Projects: 
 
@@ -32,10 +40,20 @@ Like most other DIMO [objects], [Projects] can either be a "template" or an "ins
 
 [Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
 
-### [Zones]
+## Examples of DIMO Graph-Building Projects**
+  
+[[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
+
+- Elon Musk List (Tesla + Boring Company + SpaceX) Project [Events]
+- Waymo Project [Events]
+- [Projects] coming up for Bid Soon (or past projects that you can FOIA) 
+
+- Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
+
+## [Zones]
 Live [projects] typically contain one or more references to physical locations that can be defined by addresses, zip codes, geo-JSON - these can be home to one or more [projects], and can be set up with administrative structures that are managed by [people]
 
-### [Project] Instances
+## [Project] Instances
 Combinations of [Project Templates] and [Zones]
 
 A [Project Instance] must be associated with at least one [Zone], and inherits the policies of that [zone].

@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-12-02T08:02:46.847Z
+date: 2020-12-02T18:06:56.702Z
 tags: 
 editor: markdown
 ---
@@ -18,6 +18,7 @@ The Knowledge Graph is organized by [Objects] - whenever you see a word in Brack
 
 [Objects] can be linked together to describe complex systems & relationships. This page provides an overview of each [object] type, along with examples of how they're used. 
 
+<!--- 
 Name | Icon | Description
  --- | --- | ---
 [Projects] |[![Project](/projects.png =50x)](#[Projects]) | Systems of [orgs], [people], [functions], [devices] that are designed to achieve a measurable outcome.   
@@ -26,10 +27,15 @@ Name | Icon | Description
 [Badges] | [![Badge](/badge.png =50x)](#Badges) 
 [Events] | [![Knowledge Graph](/event.png =50x)](##Events) | Updates to the knowledge graph are tracked in [Events] linked to one or more [opbjects]. 
 [Devices] | [![Knowledge Graph](/devices.png =50x)](##[Devices])|Hardware that can be owned by [orgs], [people], or [projects]. [Devices] typically have [interfaces] that allow them to interact with [functions] and produce [events]. 
+-->
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrmmCkvYeNcj4uJp?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 When creating [Projects], it's helpful to create higher level constructions out of the [objects] above. Here are some examples: 
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shriD9MUPW2KNxV5F?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<!---
 Name | Icon | Description
 --- | --- | ---
 [Orgs] | ![Company](/company.png =50x) | Multiple [people] working together on something. 
@@ -37,6 +43,7 @@ Name | Icon | Description
 [Deals] | ![Deals](/deal.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [orgs] or [people] for a set price.
 [Jobs] | ![Jobs](/jobs.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [people] according to a job offer [deal].
 [Interfaces]| ![Interface](/interface.png =50x) |[People] interact with [Functions] through [Interfaces], which are combinations of [devices] and [functions]. 
+-->
 
 ## Navigating the Graph - Types and Tags
 All DIMO Knowledge Graph objects are organized by [type] and [tag].
@@ -45,7 +52,11 @@ All DIMO Knowledge Graph objects are organized by [type] and [tag].
 
 
 These are the different types of [Devices] (so far) 
-![vehicle_icon.png](/vehicle_icon.png) ![storage_icon.png](/storage_icon.png) ![access-control_icon.png](/access-control_icon.png) ![sensor_icon.png](/sensor_icon.png) ![robot_icon.png](/robot_icon.png) ![computers_icon.png](/computers_icon.png)
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrH7Sf79yAHV9zmY?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<!--- ![vehicle_icon.png](/vehicle_icon.png) ![storage_icon.png](/storage_icon.png) ![access-control_icon.png](/access-control_icon.png) ![sensor_icon.png](/sensor_icon.png) ![robot_icon.png](/robot_icon.png) ![computers_icon.png](/computers_icon.png)
+-->
 
 
 For example, a [device] with [type] “Home Appliance” can be expected to have the following fields:
@@ -63,17 +74,12 @@ For example, ‘Home appliances’ which will have many subgroups [tags] within 
 
 ## Using the Knowledge Graph 
 
-DIMO uses a number of tools to collect and organize information. Airtable is the most accessible for beginners. With a valid DIMO account, you can access the public DIMO database here, and start to build your own extensions to the graph. 
+DIMO uses a number of tools to collect and organize information. Airtable is the most accessible for beginners. With a valid DIMO account, you can access the public DIMO airtable database here, and start to build your own extensions to the graph or hiring services in the marketplace.
 
-### Examples of Projects in the DIMO Airtable**
-  
-[[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
+For enterprise customers, DIMO can deploy private versions of the graph that can be synced with the public graph as needed - similar to a private Github repository. 
 
-- Elon Musk List (Tesla + Boring Company + SpaceX) Project [Events]
-- Waymo Project [Events]
-- [Projects] coming up for Bid Soon (or past projects that you can FOIA) 
 
-- Public Agency [[Deal]](https://airtable.com/shrzktHuYjqpQMfHf) & [[Project](https://airtable.com/shrhVLXNuwWrt72rt)] Gallery pages. We're going to be building these out significantly.
+
 
 
   

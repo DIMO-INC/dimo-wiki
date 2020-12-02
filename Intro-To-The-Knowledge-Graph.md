@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-12-01T06:04:58.961Z
+date: 2020-12-02T07:57:59.296Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,7 @@ Name | Icon | Description
 [Orgs] | ![Company](/company.png =50x) | Multiple [people] working together on something. 
 [Tasks]| ![Task](/task.png )|[Tasks] are created when [people] or [orgs] send request [Events] to [functions], creating a specific job to be done.  
 [Deals] | ![Deals](/deal.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [orgs] or [people] for a set price.
+[Jobs] | ![Jobs](/jobs.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [people] according to a job offer [deal].
 [Interfaces]| ![Interface](/interface.png =50x) |[People] interact with [Functions] through [Interfaces], which are combinations of [devices] and [functions]. 
 
 ## Navigating the Graph - Types and Tags

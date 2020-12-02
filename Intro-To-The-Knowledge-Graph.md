@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: 
 published: true
-date: 2020-12-02T18:06:56.702Z
+date: 2020-12-02T18:23:19.095Z
 tags: 
 editor: markdown
 ---
@@ -29,11 +29,11 @@ Name | Icon | Description
 [Devices] | [![Knowledge Graph](/devices.png =50x)](##[Devices])|Hardware that can be owned by [orgs], [people], or [projects]. [Devices] typically have [interfaces] that allow them to interact with [functions] and produce [events]. 
 -->
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrmmCkvYeNcj4uJp?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shruj9jOJ17wlWimm?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 When creating [Projects], it's helpful to create higher level constructions out of the [objects] above. Here are some examples: 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shriD9MUPW2KNxV5F?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrQucqhVkcI8O5wO?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <!---
 Name | Icon | Description

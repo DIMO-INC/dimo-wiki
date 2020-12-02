@@ -2,12 +2,15 @@
 title: [Projects]
 description: 
 published: true
-date: 2020-12-01T05:58:11.324Z
+date: 2020-12-02T05:03:41.296Z
 tags: object
 editor: markdown
 ---
 
 # [Projects] 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrhVLXNuwWrt72rt?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 The whole point of DIMO is to enable [Projects] that move things around. [Projects] are systems of [orgs], [people], [functions], [devices] that are designed to achieve a measurable outcome. [Deals] are a specific type of [function] that can be used to fund and build [projects] by specifying [tasks] that need to be completed to successfully launch a new instance of a [project]. 
 
 Here’s an example of current and potential [projects] that we’re tracking.

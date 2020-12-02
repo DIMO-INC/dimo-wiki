@@ -2,7 +2,7 @@
 title: [People] & [Orgs]
 description: 
 published: true
-date: 2020-12-02T04:13:13.504Z
+date: 2020-12-02T04:49:30.029Z
 tags: 
 editor: markdown
 ---

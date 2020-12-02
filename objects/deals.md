@@ -2,14 +2,18 @@
 title: [Deals]
 description: 
 published: true
-date: 2020-12-01T05:51:49.382Z
+date: 2020-12-02T04:50:25.050Z
 tags: object
 editor: markdown
 ---
 
 
 # [Deals]
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrzktHuYjqpQMfHf?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 [Deals] are used to highlight and give specific information about the transactions that brought a [project] to life.
+
 
 There are different methods of structuring a [Deal] 
 - RFP from a Public Agency

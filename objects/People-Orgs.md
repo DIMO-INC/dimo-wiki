@@ -2,7 +2,7 @@
 title: [People] & [Orgs]
 description: 
 published: true
-date: 2020-12-01T06:04:46.898Z
+date: 2020-12-02T03:36:30.200Z
 tags: 
 editor: markdown
 ---
@@ -16,9 +16,14 @@ The most basic account, which can own or fill one or more roles within specific 
 
 [People] with **verified** DIMO accounts can add to the knowledge graph and create private sub-graphs. Typically this is done while designing, developing, maintaining, and upgrading DIMO [Projects].
 
-## [Orgs]
-[Orgs] are multiple [people] working together on something. Like [people] [Orgs] can be associated with [Projects][Devices][Functions] and assigned [Badges] based on [Events].
+If you are on a free tier account and would like to apply for account verification - [submit this form.](https://airtable.com/shrCzqkLkxabwBOBR)
 
-[People ] and [functions] can follow an [Org] here to be updated as [Events] are associated with their accounts.
+## [Orgs]
+
+[Example Gallery](https://airtable.com/shrBX3RazvuAQ5VVS) 
+
+[Orgs] are multiple [people] working together on something. Like [people], [Orgs] can be associated with [Projects], [Devices], [Functions] and assigned [Badges] based on [Events].
+
+[People] and [functions] can follow an [Org] here to be updated as [Events] are associated with their accounts.
 
 ![hardware_icon.png](/hardware_icon.png) ![media_icon.png](/media_icon.png) ![telecom_icon.png](/telecom_icon.png) ![software_icon.png](/software_icon.png) ![investor_icon.png](/investor_icon.png) ![finance_icon.png](/finance_icon.png)

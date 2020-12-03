@@ -2,7 +2,7 @@
 title: [Projects]
 description: 
 published: true
-date: 2020-12-02T18:20:40.927Z
+date: 2020-12-03T04:54:05.330Z
 tags: object
 editor: markdown
 ---
@@ -40,7 +40,7 @@ Like most other DIMO [objects], [Projects] can either be a "template" or an "ins
 
 [Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
 
-## Examples of DIMO Graph-Building Projects**
+## Examples of DIMO Graph-Building Projects
   
 [[Events](https://airtable.com/shryKKrkt7g5DZl9y)] we're tracking. You can filter based on your interest to get lists like: 
 

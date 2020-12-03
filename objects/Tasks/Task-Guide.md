@@ -2,13 +2,16 @@
 title: Task Guide
 description: 
 published: true
-date: 2020-11-17T00:45:19.574Z
+date: 2020-12-03T02:05:40.396Z
 tags: 
 editor: markdown
 ---
 
 # [Task] Directory
 Step-by-step guide on how to complete individual [tasks]
+
+
+
 
 ## [Complete a FOIA/FOIL Request](https://airtable.com/tblIc1j1lbieDf9sd/viwBNg045cwy1fK3Q/recBV9zez4bcNWMmi?blocks=hide) 
 1.	Find key details 

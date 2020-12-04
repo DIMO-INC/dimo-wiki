@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your graph out.
 published: true
-date: 2020-11-16T01:21:15.775Z
+date: 2020-12-04T22:16:48.921Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,10 @@ editor: markdown
 
 ## Step 1 - Join Community
 Anyone with an internet connection and a github account can contribute directly to a project or to the DIMO documentation, but to access badges and build a reputation score you need to create a DIMO account
+
+At this time acocunts are by application only, please fill out this form: 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrCzqkLkxabwBOBR?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 ### New Account Setup
 Request an account [here](https://airtable.com/shrIckHHTgnv1sSo4) for a [person] or [org] 

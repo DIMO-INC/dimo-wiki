@@ -2,14 +2,13 @@
 title: Task Guide
 description: 
 published: true
-date: 2020-12-03T02:05:40.396Z
+date: 2020-12-09T05:52:01.661Z
 tags: 
 editor: markdown
 ---
 
-# [Task] Directory
-Step-by-step guide on how to complete individual [tasks]
-
+# [Function] & [Task] Directory
+Step-by-step guide on how to complete [tasks] associated with [functions]
 
 
 

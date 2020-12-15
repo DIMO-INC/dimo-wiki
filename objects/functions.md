@@ -2,7 +2,7 @@
 title: [Functions]
 description: 
 published: true
-date: 2020-12-02T16:13:08.389Z
+date: 2020-12-15T14:37:49.271Z
 tags: 
 editor: markdown
 ---
@@ -22,3 +22,5 @@ These functions are listed in our markatplace:
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrm5zPorvRcHiGZx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [Functions] can be bundled together and built into [projects] and [deals]. 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ebeec610d41f4d9bbf3e7f5fe5c96547" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

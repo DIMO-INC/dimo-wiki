@@ -2,7 +2,7 @@
 title: [Functions]
 description: 
 published: true
-date: 2020-12-15T14:37:49.271Z
+date: 2020-12-15T14:38:24.359Z
 tags: 
 editor: markdown
 ---
@@ -23,4 +23,3 @@ These functions are listed in our markatplace:
 
 [Functions] can be bundled together and built into [projects] and [deals]. 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ebeec610d41f4d9bbf3e7f5fe5c96547" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

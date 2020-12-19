@@ -2,7 +2,7 @@
 title: [Deals]
 description: 
 published: true
-date: 2020-12-02T05:39:20.925Z
+date: 2020-12-19T18:52:19.367Z
 tags: object
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 # [Deals]
 
 [Example Gallery](https://airtable.com/shrzktHuYjqpQMfHf) 
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrzktHuYjqpQMfHf?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [Deals] are used to highlight and give specific information about the transactions that brought a [project] to life.
 
@@ -21,6 +21,16 @@ There are different methods of structuring a [Deal]
 - Private B2B contract
 - Crowdfunded project or task
 - Employment contract
+
+### Issuing, Tracking & Awarding a [Deal]
+Each [Deal] typically has 3 types of links to [orgs] or [people]: 
+
+**Issuing** - The "customer" who is responsible for describing their needs, and ultimately paying for the products or services rendered in a deal.
+
+**Tracking** - Once a [Deal] has been published, [orgs] or [people] that are interested in following it can request further details and elect to receive updates & invitations to any pre-proposal meetings that might be scheduled. 
+
+**Awarded** - When a [deal] is closed an [org] or [person] is selected and commits to providing the services or products outlined. 
+
 
 
 ### Deal [Types]

@@ -2,17 +2,20 @@
 title: Account Setup
 description: Build your graph out.
 published: true
-date: 2020-12-20T04:49:43.436Z
+date: 2020-12-20T04:51:57.846Z
 tags: 
 editor: markdown
 ---
 
-# Building Knowledge Graph Credentials
 
-[DIMO] is designed to unlock creativity at all layers in a [project]. A critical aspect of this is making it possible for anyone to contribute and get recognized for their work.
+[DIMO] is designed to help all types of [people] and [orgs] build [project]. 
 
-## Step 1 - Join Community
-Anyone with an internet connection and a github account can contribute directly to a project or to the DIMO documentation, but to access badges and build a reputation score you need to create a DIMO account
+We try to make it possible for anyone to contribute and get recognized for their work.
+
+## Step 1 - Join the DIMO Community
+Anyone with an internet connection and a github account can contribute directly to a project or to the DIMO documentation.
+
+To access the marketplace, earn [badges] and build a reputation score you need to create a DIMO account.
 
 At this time acocunts are by application only, please fill out this form: 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrCzqkLkxabwBOBR?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

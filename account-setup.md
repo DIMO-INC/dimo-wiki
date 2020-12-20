@@ -2,23 +2,24 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2020-12-20T05:31:32.970Z
+date: 2020-12-20T05:35:49.741Z
 tags: 
 editor: markdown
 ---
 
 
-[DIMO] is designed to help all types of [people] and [orgs] build [project]. 
+[DIMO] is designed to help all types of [people] and [orgs] build [projects]. 
 
-We try to make it possible for anyone to contribute and get recognized for their work.
+We try to make it possible for anyone to receive or contribute value quickly based on their skill set or needs. 
+
+This quick onboarding process will 
 
 ## Step 1 - Join the DIMO Community
-Anyone with an internet connection and a github account can contribute directly to a project or to the DIMO documentation.
+Anyone with an internet connection and a github account can create new [projects] within DIMO. 
+
+You can also suggest contributions directly to existing [[projects]](/objects/projects) or even to code that runs DIMO itself.
 
 To access the marketplace, earn [badges] and build a reputation score you need to create a DIMO account.
-
-At this time acocunts are by application only, please fill out this form: 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrCzqkLkxabwBOBR?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ### New Account Setup
 Request an account [here](https://airtable.com/shrIckHHTgnv1sSo4) for a [person] or [org] 

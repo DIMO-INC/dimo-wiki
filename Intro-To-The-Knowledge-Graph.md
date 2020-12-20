@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2020-12-20T04:54:56.627Z
+date: 2020-12-20T04:59:00.586Z
 tags: 
 editor: markdown
 ---
@@ -16,7 +16,6 @@ The DIMO Knowledge Graph tracks connections between the digital and physical wor
 ## [Objects] 
 The Knowledge Graph is organized by [Objects] - whenever you see a word in Brackets like [this], you know you're dealing with a DIMO [object]. 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrH3b3sbT2Wb0GaS?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [Objects] can be linked together to describe complex systems & relationships. This page provides an overview of each [object] type, along with examples of how they're used. 
 

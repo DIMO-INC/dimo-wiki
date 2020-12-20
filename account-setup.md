@@ -1,8 +1,8 @@
 ---
 title: Account Setup
-description: Build your graph out.
+description: Build your custom DIMO profile.
 published: true
-date: 2020-12-20T05:01:12.400Z
+date: 2020-12-20T05:31:32.970Z
 tags: 
 editor: markdown
 ---

@@ -1,8 +1,8 @@
 ---
 title: Intro To The Knowledge Graph
-description: 
+description: Let's get building. 
 published: true
-date: 2020-12-02T18:23:19.095Z
+date: 2020-12-20T04:42:30.995Z
 tags: 
 editor: markdown
 ---

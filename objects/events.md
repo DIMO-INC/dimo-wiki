@@ -2,7 +2,7 @@
 title: [Events]
 description: 
 published: true
-date: 2020-12-20T04:33:52.856Z
+date: 2020-12-20T04:37:42.676Z
 tags: object
 editor: markdown
 ---
@@ -12,6 +12,10 @@ editor: markdown
 
 [Events] are how changes are tracked in the knowledge graph and associated with their subjects & participants.
 
+An [Event] contains time-bound information from a [Person] or [Org]. For example -
+
+![media_icon.png](/media_icon.png) ![funding_icon.png](/funding_icon.png) ![partnership_icon.png](/partnership_icon.png) ![product-launch_icon.png](/product-launch_icon.png) ![prediction_icon.png](/prediction_icon.png) ![mapupdate_icon.png](/mapupdate_icon.png)
+
 Updates can be simple, like changing the value on a sensor [device] from 70 → 71 degrees F.
 
 [Events] can also describe complex situations including other objects: 
@@ -20,25 +24,7 @@ Updates can be simple, like changing the value on a sensor [device] from 70 → 
 - set by an [organization] in a specific [project].
 - tracked by a [Badge] that summarizes performance against a standard
 
-![Knowledge Graph](/policyupdate.png)
-
-#### Prediction
-
-An event can contain a statement from a [Person] or [Org] that references some time-bound information. For example -
-
-![media_icon.png](/media_icon.png) ![funding_icon.png](/funding_icon.png) ![partnership_icon.png](/partnership_icon.png) ![product-launch_icon.png](/product-launch_icon.png) ![prediction_icon.png](/prediction_icon.png) ![mapupdate_icon.png](/mapupdate_icon.png)
-
-A claim can be about project or financial performance:
-- Want to see how often [Tesla] [GM] [Ford] have hit their production targets? Are their targets aggressive compared to each other?
-- Which [Orgs] claim they’ll be able to offer automated delivery services at less than $1/mile by 2025?
-
-Or - the “Claims” can be credentials issued by regulators to [Orgs],[People],[Projects],[Devices], or even [Functions]. Certain claims from verified accounts can be used to issue [badges]:
-
-**- [California] [DMV] issued a [fully driverless] [permit] to [AutoX] on [September 20, 2020]**
-
-One other common type of claim [event] is a “Billable” [event]. It can be submitted using a dedicated form that creates an [event] that gets assigned to the billing admin of a [project] or [task].
-
-### [Event] Streams
+## [Event] Streams
 There are many high-quality, reliable public [event] streams available today.
 
 here are some we’ve compiled from publicly available sources:
@@ -49,3 +35,17 @@ here are some we’ve compiled from publicly available sources:
 All [DIMO]-produced [Event] feeds are available as RSS, email, updates, or through our API with a paid account.
 
 Don’t see a stream you need? Check out our [task] board to see if someone is working on it already, and submit a new [Task] request if it’s not on our roadmap.
+
+
+## Claims 
+
+A claim can be a prediction (and/or a bet) about [project] operational or financial performance:
+- Want to see how often [Tesla] [GM] [Ford] have hit their production targets? Are their targets aggressive compared to each other?
+- Which [Orgs] claim they’ll be able to offer automated delivery services at less than $1/mile by 2025?
+
+Or - the “Claims” can be credentials issued by regulators to [Orgs],[People],[Projects],[Devices], or even [Functions]. Certain claims from verified accounts can be used to issue [badges]:
+
+**- [California] [DMV] issued a [fully driverless] [permit] to [AutoX] on [September 20, 2020]**
+
+One other common type of claim [event] is a “Billable” [event]. It can be submitted using a dedicated form that creates an [event] that gets assigned to the billing admin of a [project] or [task].
+

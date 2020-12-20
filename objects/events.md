@@ -2,13 +2,12 @@
 title: [Events]
 description: 
 published: true
-date: 2020-12-01T06:00:11.667Z
+date: 2020-12-20T04:33:52.856Z
 tags: object
 editor: markdown
 ---
 
 # [Events]
-### Events 
 ![Knowledge Graph](/event.png =75x)
 
 [Events] are how changes are tracked in the knowledge graph and associated with their subjects & participants.

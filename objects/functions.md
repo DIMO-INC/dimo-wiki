@@ -2,12 +2,14 @@
 title: [Functions]
 description: 
 published: true
-date: 2020-12-15T14:38:24.359Z
+date: 2021-01-04T20:43:44.537Z
 tags: 
 editor: markdown
 ---
 
 # [Functions] 
+
+The starting point for all [Events] in the DIMO Knowledge Graph
 
 The DIMO platform offers [Functions] for a few different purposes.  
 - Automated Repeatable tasks, like data collection 

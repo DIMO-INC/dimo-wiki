@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2020-12-20T04:59:00.586Z
+date: 2021-01-08T05:37:43.247Z
 tags: 
 editor: markdown
 ---
@@ -79,7 +79,17 @@ DIMO uses a number of tools to collect and organize information. Airtable is the
 
 For enterprise customers, DIMO can deploy private versions of the graph that can be synced with the public graph as needed - similar to a private Github repository. 
 
+## Updating the Knowledge Graph 
 
+\Updating the knowledge graph follows the same flow as updating a github repository, or wikipedia page. 
+
+When you're logged in from a verified DIMO account, you can submit a requeset to update the graph once, or to establish a new [event] stream. 
+
+The DIMO platform will check the permissions on your account, and route the request to the correct place. If you're submitting an update about any [object] you own ( [org], [device], or [project], [function] etc) then it will automatically be accepted. 
+
+If you're publishing a request to update some graph data or an entire subgraph that is owned by another [person] or [org] they may be able to ask for clarification or suggest changes to your update before it is published. 
+
+![github_flow.png](/github_flow.png)
 
 
 

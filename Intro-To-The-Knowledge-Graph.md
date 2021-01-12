@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-01-08T05:37:43.247Z
+date: 2021-01-12T03:09:36.123Z
 tags: 
 editor: markdown
 ---
@@ -10,8 +10,7 @@ editor: markdown
 ![transparent_logo.png](/transparent_logo.png =150x)
 # Intro to the DIMO Knowledge Graph
 The DIMO Knowledge Graph tracks connections between the digital and physical world.
-![Knowledge Graph](/knowledge_graph.png)
-
+![twitter_header_-_2.png](/marketing/twitter_header_-_2.png)
 
 ## [Objects] 
 The Knowledge Graph is organized by [Objects] - whenever you see a word in Brackets like [this], you know you're dealing with a DIMO [object]. 

@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2020-12-20T05:35:49.741Z
+date: 2021-01-13T05:35:55.872Z
 tags: 
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 
 We try to make it possible for anyone to receive or contribute value quickly based on their skill set or needs. 
 
-This quick onboarding process will 
+This quick onboarding process should get you to the point where you're able to get value from DIMO - if it doesn't please [Join our Discord so we can sort things out](https://discord.gg/fZxrurPHZh)
 
 ## Step 1 - Join the DIMO Community
 Anyone with an internet connection and a github account can create new [projects] within DIMO. 

@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-01-12T03:09:36.123Z
+date: 2021-01-13T05:39:40.458Z
 tags: 
 editor: markdown
 ---
@@ -80,7 +80,7 @@ For enterprise customers, DIMO can deploy private versions of the graph that can
 
 ## Updating the Knowledge Graph 
 
-\Updating the knowledge graph follows the same flow as updating a github repository, or wikipedia page. 
+Updating the knowledge graph follows the same flow as updating a github repository or a wikipedia page. 
 
 When you're logged in from a verified DIMO account, you can submit a requeset to update the graph once, or to establish a new [event] stream. 
 

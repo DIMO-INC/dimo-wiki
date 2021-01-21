@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-01-13T05:39:40.458Z
+date: 2021-01-21T22:03:55.129Z
 tags: 
 editor: markdown
 ---
@@ -66,6 +66,8 @@ For example, a [device] with [type] “Home Appliance” can be expected to have
 
 An iRobot Roomba S9 is an example of a [device] has multiple [types]. It’s both a Home Appliance and a Robot. It contains data that describes Robot qualities like “Actuators”, “Sensors”, and “Compute”, and Home Appliance qualities like “room”, “Hub”, and “Network”.
 
+
+
 Any user can suggest updates to types by submitting a pull request or entering a task in the “Requests” section of the Graph Roadmap.
 
 **Tags** - are able to give a more detailed description of the [object], providing more free-form labels and associations with other parts of the knowledge graph. They allow [users] to more easily find and group [devices] appropriately.
@@ -74,11 +76,13 @@ For example, ‘Home appliances’ which will have many subgroups [tags] within 
 
 ## Using the Knowledge Graph 
 
-DIMO uses a number of tools to collect and organize information. Airtable is the most accessible for beginners. With a valid DIMO account, you can access the public DIMO airtable database here, and start to build your own extensions to the graph or hiring services in the marketplace.
+DIMO uses a number of tools to collect and organize information. 
+
+Airtable is the most accessible for beginners. With a valid DIMO account, you can request access to the DIMO airtable database here, and start to build your own extensions to the graph or hiring [functions] in the marketplace.
 
 For enterprise customers, DIMO can deploy private versions of the graph that can be synced with the public graph as needed - similar to a private Github repository. 
 
-## Updating the Knowledge Graph 
+## How The Knowledge Graph Is Updated 
 
 Updating the knowledge graph follows the same flow as updating a github repository or a wikipedia page. 
 

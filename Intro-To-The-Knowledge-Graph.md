@@ -2,7 +2,7 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-01-21T22:04:08.022Z
+date: 2021-01-21T22:09:52.790Z
 tags: 
 editor: markdown
 ---

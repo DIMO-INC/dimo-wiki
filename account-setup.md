@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2021-01-29T22:27:35.112Z
+date: 2021-01-29T22:46:46.148Z
 tags: 
 editor: markdown
 ---

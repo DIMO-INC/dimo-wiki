@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2021-01-13T05:36:59.666Z
+date: 2021-01-29T22:21:12.077Z
 tags: 
 editor: markdown
 ---
@@ -12,9 +12,15 @@ editor: markdown
 
 We try to make it possible for anyone to receive or contribute value quickly based on their skill set or needs. 
 
-This quick onboarding process should get you to the point where you're able to get value from DIMO - if it doesn't please [Join our Discord so we can sort things out](https://discord.gg/fZxrurPHZh)
+This quick onboarding process should get you to the point where you're able to get value from DIMO.
 
 ## Step 1 - Join the DIMO Community
+
+Once you've requested an account, head over to [Discord](https://discord.gg/fZxrurPHZh) & introduce yourself. 
+
+We hang out in Online Town, and you can see events planned there: 
+<iframe src="https://calendar.google.com/calendar/embed?src=04cjb5fcf1undq37qhamfo8ruo%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 Anyone with an internet connection and a github account can create new [projects] within DIMO. 
 
 You can also suggest contributions directly to existing [[projects]](/objects/projects) or even to code that runs DIMO itself.

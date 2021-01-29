@@ -2,12 +2,11 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-01-21T22:09:52.790Z
+date: 2021-01-29T22:53:24.262Z
 tags: 
 editor: markdown
 ---
 
-![transparent_logo.png](/transparent_logo.png =150x)
 # Intro to the DIMO Knowledge Graph
 The DIMO Knowledge Graph tracks connections between the digital and physical world.
 ![twitter_header_-_2.png](/marketing/twitter_header_-_2.png)
@@ -95,6 +94,7 @@ If you're publishing a request to update some graph data or an entire subgraph t
 ![github_flow.png](/github_flow.png)
 
 
+![transparent_logo.png](/transparent_logo.png =150x)
 
   
 

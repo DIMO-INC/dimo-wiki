@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2021-01-29T22:21:12.077Z
+date: 2021-01-29T22:27:35.112Z
 tags: 
 editor: markdown
 ---
@@ -10,16 +10,12 @@ editor: markdown
 
 [DIMO] is designed to help all types of [people] and [orgs] build [projects]. 
 
-We try to make it possible for anyone to receive or contribute value quickly based on their skill set or needs. 
-
 This quick onboarding process should get you to the point where you're able to get value from DIMO.
 
-## Step 1 - Join the DIMO Community
+### New Account Setup
+Request an account [here](https://airtable.com/shrIckHHTgnv1sSo4) for a [person] or [org] 
 
-Once you've requested an account, head over to [Discord](https://discord.gg/fZxrurPHZh) & introduce yourself. 
-
-We hang out in Online Town, and you can see events planned there: 
-<iframe src="https://calendar.google.com/calendar/embed?src=04cjb5fcf1undq37qhamfo8ruo%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Once approved, you can [Join our Discord](https://discord.gg/fZxrurPHZh). Say hi, and we'll link your Discord username to your DIMO account.
 
 Anyone with an internet connection and a github account can create new [projects] within DIMO. 
 
@@ -27,21 +23,20 @@ You can also suggest contributions directly to existing [[projects]](/objects/pr
 
 To access the marketplace, earn [badges] and build a reputation score you need to create a DIMO account.
 
-### New Account Setup
-Request an account [here](https://airtable.com/shrIckHHTgnv1sSo4) for a [person] or [org] 
-Once approved, you can [Join our Discord](https://discord.gg/fZxrurPHZh). Say hi, and we'll link your Discord username to your DIMO account.
-
-#### Build Your Newsfeed from the DIMO Graph: 
+#### Build Your DIMO Toolkit & Newsfeed: 
 - Follow [orgs](https://airtable.com/shrBX3RazvuAQ5VVS), [projects](https://airtable.com/shrhVLXNuwWrt72rt) or other [people] 
 - Import existing or [template](https://airtable.com/shrCVJbBXNBOFqAs6) [Projects]
 - Add [Devices](https://airtable.com/shrUhT5kjZEcJSGqF) or [Functions]
 
-## Step 2 - Explore Knowledge Graph & Projects
+We hang out in Online Town, and you can see events planned there: 
+<iframe src="https://calendar.google.com/calendar/embed?src=04cjb5fcf1undq37qhamfo8ruo%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Explore Knowledge Graph & Projects
 - Look through some of the template projects, functions, [devices], and [organizations] on the platform.
 - You can build out any part of the graph by funding a [task]! If you think of something you'd like to add to the graph, [just use this form to describe what data you need](https://airtable.com/shr5ydIkHvmPUTN5E)
 
 
-## Step 3 Figure Out What You Want to Do Next
+## Step 2 Figure Out What You Want to Do Next
 Most DIMO users fall into a few major groups, feel free to explore all of them: 
 
 ### Becoming a Curator

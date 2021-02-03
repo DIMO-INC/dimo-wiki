@@ -2,7 +2,7 @@
 title: [Projects]
 description: 
 published: true
-date: 2020-12-03T04:54:05.330Z
+date: 2021-02-03T02:33:25.394Z
 tags: object
 editor: markdown
 ---
@@ -26,19 +26,19 @@ Here’s an example of current and potential [projects] that we’re tracking.
 ![iot_icon.png](/iot_icon.png) ![transit_icon.png](/transit_icon.png) ![shared-mobility_icon.png](/shared-mobility_icon.png) ![smart-city_icon.png](/smart-city_icon.png) ![smart-house_icon.png](/smart-house_icon.png) ![testing_icon.png](/testing_icon.png)
 -->
 
-DIMO also has a [function] that can be used to build lists of [projects] for research purposes. 
+DIMO also has a built-in [function] that can be used to build a sub-graph of [projects] linked to other [objects] for research purposes. [You can submit a request here.](https://airtable.com/shr4xlviISJd52GM6)
 
 Here's an example list of Spot Robotics Projects:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrXcHWrD1sDg4HIs?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-Or this list of NHTSA Regulated Robotics Projects: 
+Or this list of NHTSA Regulated Automated Vehicle Projects: 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrARtAvT79gV3Dnj?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-Like most other DIMO [objects], [Projects] can either be a "template" or an "instance"
+Like all DIMO [objects] a [Project] can either be a "template" or an "instance"
 
-[Orgs] and [People] can create [Project] Templates to [display their capabilities.](https://airtable.com/shroBTjnjbWRyb0gh)
+[Orgs] and [People] can create [Project] Templates to <a href="https://airtable.com/shroBTjnjbWRyb0gh" target="_blank">display their capabilities.</a>
 
 ## Examples of DIMO Graph-Building Projects
   

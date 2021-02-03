@@ -1,8 +1,8 @@
 ---
 title: [Projects]
-description: 
+description: [Projects] are systems of [orgs], [people], [functions], [devices]
 published: true
-date: 2021-02-03T02:33:25.394Z
+date: 2021-02-03T02:34:13.431Z
 tags: object
 editor: markdown
 ---

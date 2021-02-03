@@ -2,7 +2,7 @@
 title: [Projects]
 description: [Projects] are systems of [orgs], [people], [functions], [devices]
 published: true
-date: 2021-02-03T02:34:13.431Z
+date: 2021-02-03T03:24:01.928Z
 tags: object
 editor: markdown
 ---
@@ -11,7 +11,9 @@ editor: markdown
 
 
 
-The whole point of DIMO is to enable [Projects] that move things around. [Projects] are systems of [orgs], [people], [functions], [devices] that are designed to achieve a measurable outcome. [Deals] are a specific type of [function] that can be used to fund and build [projects] by specifying [tasks] that need to be completed to successfully launch a new instance of a [project]. 
+The whole point of DIMO is to enable [Projects] that move things around. 
+
+[[Deals]](/objects/deals) can be used to fund and build [projects] by specifying a combination of [functions] and [tasks] that need to be completed to successfully launch a new instance of a [project]. 
 
 Here’s an example of current and potential [projects] that we’re tracking.
 
@@ -26,7 +28,9 @@ Here’s an example of current and potential [projects] that we’re tracking.
 ![iot_icon.png](/iot_icon.png) ![transit_icon.png](/transit_icon.png) ![shared-mobility_icon.png](/shared-mobility_icon.png) ![smart-city_icon.png](/smart-city_icon.png) ![smart-house_icon.png](/smart-house_icon.png) ![testing_icon.png](/testing_icon.png)
 -->
 
-DIMO also has a built-in [function] that can be used to build a sub-graph of [projects] linked to other [objects] for research purposes. [You can submit a request here.](https://airtable.com/shr4xlviISJd52GM6)
+Want to add [projects] to the DIMO graph for research or design? 
+
+We've developed a built-in [function] that can be used to build a sub-graph of [projects] linked to other [objects]. <a href="https://airtable.com/shr4xlviISJd52GM6" target="_blank">You can submit a request here..</a>
 
 Here's an example list of Spot Robotics Projects:
 

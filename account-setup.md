@@ -2,7 +2,7 @@
 title: Account Setup
 description: Build your custom DIMO profile.
 published: true
-date: 2021-01-29T22:46:46.148Z
+date: 2021-03-26T00:14:21.070Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ editor: markdown
 This quick onboarding process should get you to the point where you're able to get value from DIMO.
 
 ### New Account Setup
-Request an account [here](https://airtable.com/shrIckHHTgnv1sSo4) for a [person] or [org] 
+Request an account [here](https://dimo.zone/create-account/) for a [person] or [org] 
 
 Once approved, you can [Join our Discord](https://discord.gg/fZxrurPHZh). Say hi, and we'll link your Discord username to your DIMO account.
 

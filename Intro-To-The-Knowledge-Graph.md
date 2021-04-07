@@ -2,9 +2,10 @@
 title: Intro To The Knowledge Graph
 description: Let's get building. 
 published: true
-date: 2021-02-01T22:39:27.442Z
+date: 2021-04-07T22:18:04.065Z
 tags: 
 editor: markdown
+dateCreated: 2020-11-10T03:41:31.024Z
 ---
 
 # Intro to the DIMO Knowledge Graph
@@ -43,6 +44,14 @@ Name | Icon | Description
 [Jobs] | ![Jobs](/jobs.png =50x) | Groups of [tasks] that can be bundled together and fulfilled by [people] according to a job offer [deal].
 [Interfaces]| ![Interface](/interface.png =50x) |[People] interact with [Functions] through [Interfaces], which are combinations of [devices] and [functions]. 
 -->
+
+## Rules of Thumb - Building a [Project] 
+
+**Start with a goal, pull up a template: ** 
+We have templates available for: RFI/RFPs, Internal Presentations, Client Presentations, Industry Maps  
+
+- Every [Function] should be linked to at least one [org] and [project]
+
 
 ## Navigating the Graph - Types and Tags
 All DIMO Knowledge Graph objects are organized by [type] and [tag].
